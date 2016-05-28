@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\testApps\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\testApps\\VRPlayer1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

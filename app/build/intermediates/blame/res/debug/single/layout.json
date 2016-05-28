@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\testApps\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\testApps\\VRPlayer1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\testApps\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\testApps\\VRPlayer1\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\testApps\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acivity_media_play.xml",
+        "source": "E:\\testApps\\VRPlayer1\\app\\src\\main\\res\\layout\\acivity_media_play.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acivity_media_play.xml",
+        "source": "E:\\AndroidStudioWorkSpace\\VRPlayer1\\app\\src\\main\\res\\layout\\acivity_media_play.xml"
+    },
+    {
+        "merged": "E:\\testApps\\VRPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\testApps\\VRPlayer1\\app\\src\\main\\res\\layout\\activity_test.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	              android:orientation="vertical"
+	              android:layout_width="fill_parent"
+	              android:layout_height="fill_parent">
+	              
+	<RelativeLayout 
+	    		  android:id="@+id/videosurfaceviewLayout"
+	              android:layout_width="match_parent"
+	              android:layout_height="match_parent">
+	
+	    <android.opengl.GLSurfaceView
+	        android:id="@+id/surfaceMediaPlay"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent" />	
+	        
+	</RelativeLayout>
+	
+	<RelativeLayout
+	    android:id="@+id/controlViewLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" >
+
+	    <ImageButton
+	        android:id="@+id/buttonPlay"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentBottom="true"
+	        android:layout_centerHorizontal="true"
+	        android:contentDescription="@null"
+	        android:src="@android:drawable/ic_media_play" />
+
+	    <SeekBar
+	        android:id="@+id/seekBarVideo"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_above="@+id/buttonPlay"
+	        android:layout_centerHorizontal="true" />
+
+	    <ImageButton
+	        android:id="@+id/buttonPrevious"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignBottom="@+id/buttonPlay"
+	        android:layout_marginLeft="150sp"
+	        android:contentDescription="@null"
+	        android:src="@android:drawable/ic_media_previous" />
+
+	    <ImageButton
+	        android:id="@+id/buttonNext"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:layout_alignBottom="@+id/buttonPlay"
+	        android:layout_marginRight="150sp"
+	        android:contentDescription="@null"
+	        android:src="@android:drawable/ic_media_next" />
+
+	</RelativeLayout>
+		
+</FrameLayout>
